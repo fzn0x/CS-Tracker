@@ -1,5 +1,7 @@
 # CS-Tracker
 
+My current understandings of some (not every) Computer Science want-to-learn / known fields:
+
 - [Computer graphics and Image Processing](#)
   - Steganography
 - [Cryptography](#)
@@ -37,3 +39,16 @@
   - CPU Scheduling
   - File Management
   - Access authorization
+
+## Another Tracker
+
+- [IT-Tracker](https://github.com/fzn0x/IT-Tracker)
+- [SE-Tracker](https://github.com/fzn0x/SE-Tracker)
+
+## Note
+
+The list here is not **what you need to learn**, it is only what I want to learn and I already did learn.
+
+## Examples from the known fields
+
+Coming Soon!
